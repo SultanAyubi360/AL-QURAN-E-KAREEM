@@ -1,15 +1,21 @@
 ## :tada: AL-QURAN-E-KAREEM
 السلام عليكم ورحمة الله وبركاته! الله تعالی آپ سے راضی ھو!
 
-In this project we will develop Quran app using API.
-Beautiful Holy Quran App for Recitation, Free Download & Read Quran HD Easily.
-All Muslims Quran Shareef is a free Holy Quran reading pro for a good day starts, atonement of sins and attainment of blessing. The strong connection with Quran Kareem is the route way, leading to bestowments and Allah’s mercy. Recite Quran Sharif with real feeling, just like an actual Quran in your hand.
+Is an All in One app for Muslims with lots of features such as Collections of Dhikr and Prayer sourced from Authentic Hadith, The Holy Qur'an, Notes and many more!
+
+[<img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png"
+      alt='Get it on Google Play'
+      height="80">](https://play.google.com/store/apps/details?id=com.sultan.quranehakeem)
+
+Beautiful Holy Quran App for Recitation, Free Download & Read Quran HD Easily
+
+Al Quran Free - القرآن الكريم is a genuine Islamic application to create flow in your worship time. All Muslims Quran Shareef is a free Holy Quran reading pro for a good day starts, atonement of sins and attainment of blessing. The strong connection with Quran Kareem is the route way, leading to bestowments and Allah’s mercy. Recite Quran Sharif with real feeling, just like an actual Quran in your hand.
 
 ![6th September Defence Day Poster - Made with PosterMyWall](https://user-images.githubusercontent.com/112378013/188463468-8d6005af-6b73-42fd-87cb-a50018981052.jpg)
 ![6th September Defence Day Poster - Made with PosterMyWall (1)](https://user-images.githubusercontent.com/112378013/188465535-24e10c5a-ba8c-49db-9a1e-78433a7a5e5c.jpg)
 ![6th September Defence Day Poster - Made with PosterMyWall (2)](https://user-images.githubusercontent.com/112378013/188465573-384f57d3-258b-43c6-a571-67cb8b42c953.jpg)
 
-## :tada: We will learn..
+## :tada: I Cover These..
 
 1) MVVM
 2) Retrofit
