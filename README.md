@@ -47,3 +47,10 @@ Al-Quran app is a solution of full Quran القرآنcarrying issue when you tur
 13) Zakat Calculator 
 14) More then 10 zikars
 15) live Quranic Radios
+
+### Find this useful? ❤️
+Support it by joining stargazers to this. ⭐
+
+Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
+
+
